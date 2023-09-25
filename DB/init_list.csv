@@ -1,0 +1,279 @@
+﻿Chapter;Test Case
+1.1.1;Power check
+1.1.2;Power up
+1.1.3;Local connection to BSP
+1.1.4;Verify BSP Software version
+1.1.5;BSP Alarms
+1.1.6;Check Shelf and Blade Status
+1.1.7;Check CMXB configuration
+1.1.8;Lock/Unlock SCXB board in main shelf with Standby DMXC
+1.1.9;Lock/Unlock SCXB board in main shelf with Active DMXC
+1.1.10;Lock/Unlock Active CMX Board in main shelf
+1.1.11;Create BSP Configuration Backup
+1.1.12;Restore node from BSP Configuration Backup
+1.1.13;NTP Server Connection
+2.1.1;Check HW configuration
+2.1.2;Access to APG43L
+2.1.3;Configuration of IP addresses
+2.1.4;Connection to the node and login
+2.1.5;Create a temporary troubleshooting user
+2.1.6;Serial console connection
+2.2.1;Check and Change public IP address
+2.2.2;Check APG status
+2.2.3;Check APG date and time
+2.2.4;Unlock ts_user
+2.2.5;Check APG backup
+2.2.6;Check system configuration
+2.2.7;Check APG SW level
+2.2.8;Check RAID mirror status
+2.2.9;Check Power Redundancy
+2.2.10;Check Hardware Configuration Table
+2.2.11;Disable insecure protocols
+2.2.12;Managed Element Identity (Node Name)
+2.3.1;Welcome Message
+2.3.2;Check CP volumes and create CP files
+2.3.3;Network Surveillance Function (NSF)
+2.3.4;License Key File
+2.3.5;LDAP Configuration
+2.3.6;LDAP connectivity verification
+2.3.7;NTP
+2.4.1;APG43L Backup check
+3.1.1;Power up / Cold start
+3.2.1;Test of CP-AP Communication
+3.2.2;Check board configuration
+3.2.3;Check CP SW Version
+3.2.4;Check status on APG
+3.2.5;Initial Loading
+3.2.6;Check for CP FAULT ALARM
+3.2.7;IP Configuration Check
+3.2.8;Power cycle test
+3.2.9;MSC Tenants check for Multi-application MSC
+3.3.1;Make CP backup
+4.1.1;Hardware Configuration Check
+4.1.2;Check CP Volumes and CP Files on AP1
+4.1.3;Check APZ Middleware
+4.1.4;Boot Start of the Dual CPs for SPXs
+4.1.5;Boot Start of Cluster CPs
+4.1.6;Test the AP-CP Communication
+4.1.7;Transfer MAS Dump to AP1
+4.1.8;Initial Loading and Application Startup of Dual CPs
+4.1.9;Initial Loading and Application Startup of Cluster CPs
+4.1.10;Test the AP-IPLB Communication
+4.1.11;Lock/Unlock IPLB
+4.1.12;Lock/Unlock SPX
+4.2.1;Blade Restart, Large
+4.2.2;Blade Reload
+4.2.3;Forced Reconfiguration (Blade taken out of Quorum)
+4.2.4;Blade re-inserted and re-activated
+4.2.5;Blade Isolation and Removal , Traffic Level
+4.2.6;SUA association state check
+4.2.7;Power cycle test
+5.1.1;Backup
+5.1.2;Traffic Configuration Printout Collection
+5.1.3;APG43L Printout Collection
+5.1.4;BSP Configuration Printout Collection
+7.1;Check Power Redundancy
+7.2;Check of physical connectivity
+7.3;Physical link failure of external link on Active CMXB in main shelf (O&M)
+7.4;Physical link failure of external link on Passive CMXB in main shelf (O&M)
+7.5;Physical external link failure of master CMXB while another CMXB is in locked state
+7.6;Check CMXB configuration (Signalling links)
+7.7;SCXB failure scenarios
+7.8;CMXB failure scenarios
+7.9;IPLB failure scenarios
+7.10;Create BSP Configuration Backup
+7.11;Restore node from BSP Configuration Backup
+8.1;CMXB Failure
+8.2;Direct link of 1 CMXB failure
+8.3;Crosslink of 1 CMXB failure
+8.4;CMXB - CMXB link Failure
+8.5;BB Router Failure
+9.1.1;De-register and Register
+9.1.2;Periodic Location Updating and Implicit Detach
+9.2.1;MS to MS call
+9.2.2;MS to PLMN call
+9.2.3;PLMN to MS call
+9.2.4;MS to PSTN call
+9.2.5;PSTN to MS call
+9.2.6;MS to Announcement
+9.2.7;Emergency call (Era Glonass)
+9.3.1;UE to UE call
+9.3.8;Emergency call (112)
+9.4.1;MS to UE Speech Call
+9.5.1;Intra-MSC Handover
+9.5.2;Inter-MSC Handover
+9.5.3;Inter-System Handover (GSM – UMTS)
+9.5.4;Inter-System Handover (UMTS – GSM)
+9.6.1;UE to DTMF
+9.6.2;UE to Voice Mail 
+9.6.3;CAW, HOLD and MPTY
+9.6.4;Call Forwarding Unconditional
+9.6.5;Call Forwarding Unconditional (UE1 with COLP)
+9.6.6;Call Forwarding Not Reachable
+9.6.7;Call Forwarding Not Reachable to VMS
+9.6.8;Call Forwarding No Reply
+9.6.9;Call Forwarding Busy
+9.6.10;Calling Line Identification Presentation
+9.6.11;Calling Line Identification Restriction
+9.6.12;CLIR temporary off for 1 call
+9.6.13;CLIR temporary on for 1 call
+9.6.14;PRBT service invocation
+9.7.1;Barring of all outgoing calls (BAOC)
+9.7.2;Barring of all outgoing international calls (BOIC)
+9.7.3;Barring of all outgoing international calls excl. HPLMN (BOIEXH)
+9.7.4;Barring of all incoming calls (BAIC)
+9.7.5;Barring of all outgoing calls (OBO)
+9.8.1;Short SMS
+9.8.2;Long SMS
+9.8.3;SMS during call
+9.9.1;Data call from Mobile to Mobile
+9.9.2;Data call from Mobile to PSTN
+9.9.3;Fax call from Mobile to PSTN
+9.9.4;Fax call from PSTN to Mobile
+9.10.1;USSD Balance Inquiry
+9.11.1;Enhanced IMEI check
+9.12.1;Local Subscriber: OPPS
+9.12.2;Local Subscriber: TPPS
+9.12.3;Local Subscriber: OPPS PSTN
+9.12.4;Local Subscriber: TPPS PSTN
+9.12.5;Local Subscriber: VMS
+9.12.6;Local Subscriber: CFNRC to VMS
+9.12.7;Local Subscriber: CFNRY to PSTN
+9.12.8;Local Subscriber: CFU
+9.12.9;Nord West Roamer: OPPS С-П
+9.12.10;Nord West Roamer: TPPS
+9.12.11;Nord West Roamer: OPPS to PSTN
+9.12.12;Nord West Roamer: TPPS from PSTN
+9.12.13;Nord West Roamer: Call to VMS 0600
+9.12.14;Nord West Roamer: CFNRC Call to VMS
+9.12.15;Nord West Roamer: CFNRY Call to PSTN
+9.12.16;Nord West Roamer: CFU Call
+9.12.17;Moscow Roamer: OPPS
+9.12.18;Moscow Roamer: TPPS
+9.12.19;Moscow Roamer: OPPS to PSTN
+9.12.20;Moscow Roamer: TPPS from PSTN
+9.12.21;Moscow Roamer: Call to VMS 0600
+9.12.22;Moscow Roamer: CFNRC Call to VMS
+9.12.23;Moscow Roamer: CFNRY Call to PSTN
+9.12.24;Moscow Roamer: CFU Call
+9.12.25;Central Regional Roamer: OPPS Владимир
+9.12.26;Central Regional Roamer: TPPS
+9.12.27;Central Regional Roamer: OPPS to PSTN
+9.12.28;Central Regional Roamer: TPPS from PSTN
+9.12.29;Central Regional Roamer: Call to VMS 0600
+9.12.30;Central Regional Roamer: CFNRC Call to VMS
+9.12.31;Central Regional Roamer: CFNRY Call to PSTN
+9.12.32;Central Regional Roamer: CFU Call
+9.12.33;Black Earth Roamer: OPPS Воронеж
+9.12.34;Black Earth Roamer: TPPS
+9.12.35;Black Earth Roamer: OPPS to PSTN
+9.12.36;Black Earth Roamer: TPPS from PSTN
+9.12.37;Black Earth Roamer: Call to VMS 0600
+9.12.38;Black Earth Roamer: CFNRC Call to VMS
+9.12.39;Black Earth Roamer: CFNRY Call to PSTN
+9.12.40;Black Earth Roamer: CFU Call
+9.12.41;South Roamer: OPPS Ростов 
+9.12.42;South Roamer: TPPS
+9.12.43;South Roamer: OPPS to PSTN
+9.12.44;South Roamer: TPPS from PSTN
+9.12.45;South Roamer: Call to VMS 0600
+9.12.46;South Roamer: CFNRC Call to VMS
+9.12.47;South Roamer: CFNRY Call to PSTN
+9.12.48;South Roamer: CFU Call
+9.12.49;Volga Roamer: OPPS Саратов
+9.12.50;Volga Roamer: TPPS
+9.12.51;Volga Roamer: OPPS to PSTN
+9.12.52;Volga Roamer: TPPS from PSTN
+9.12.53;Volga Roamer: Call to VMS 0600
+9.12.54;Volga Roamer: CFNRC Call to VMS
+9.12.55;Volga Roamer: CFNRY Call to PSTN
+9.12.56;Volga Roamer: CFU Call
+9.12.57;Ural Roamer: OPPS Екатеринбург
+9.12.58;Ural Roamer: TPPS
+9.12.59;Ural Roamer: OPPS to PSTN
+9.12.60;Ural Roamer: TPPS from PSTN
+9.12.61;Ural Roamer: Call to VMS 0600
+9.12.62;Ural Roamer: CFNRC Call to VMS
+9.12.63;Ural Roamer: CFNRY Call to PSTN
+9.12.64;Ural Roamer: CFU Call
+9.12.65;Siberia Roamer: OPPS Новосибирск 
+9.12.66;Siberia Roamer: TPPS
+9.12.67;Siberia Roamer: OPPS to PSTN
+9.12.68;Siberia Roamer: TPPS from PSTN
+9.12.69;Siberia Roamer: Call to VMS 0600
+9.12.70;Siberia Roamer: CFNRC Call to VMS
+9.12.71;Siberia Roamer: CFNRY Call to PSTN
+9.12.72;Siberia Roamer: CFU Call
+9.12.73;Far East Roamer: OPPS Хабаровск 
+9.12.74;Far East Roamer: TPPS
+9.12.75;Far East Roamer: OPPS to PSTN
+9.12.76;Far East Roamer: TPPS from PSTN
+9.12.77;Far East Roamer: Call to VMS 0600
+9.12.78;Far East Roamer: CFNRC Call to VMS
+9.12.79;Far East Roamer: CFNRY Call to PSTN
+9.12.80;Far East Roamer: CFU Call
+9.13.1;Location Update with USIM
+9.13.2;Location Update with SIM
+9.14.1;B Numbering trigger (DCF and INAP)
+9.14.2;B Numbering trigger (ANTIFRAUD)
+9.15.1;Combined Attach procedure (UE Mode “Auto”)
+9.15.3;MT SMS to UE
+9.15.5;MO SMS from UE
+9.15.7;MO USSD from UE
+9.15.8;Network Initiated USSD
+9.15.10;MT call in Idle Mode (CSFB to 2G)
+9.15.12;MO call in Idle Mode (CSFB to 2G)
+9.16.1;CS->VoLTE MT Call with RBT
+9.16.2;CS->VoLTE MT Call with HOLD and MPTY
+9.16.3;VoLTE->PLMN MO Call
+9.16.4;CS->VoLTE MT Call with Breakout, CFNRY 
+9.16.5;CS->VoLTE MT Call with Breakout, + HOLD and MPTY
+9.16.6;VoLTE->PSTN MO Call with SRVCC
+9.16.7;CS->VoLTE MT Call  + RBT with SRVCC At allerting state
+9.16.8;Alternative routing when SIP peer is unreachable
+10.1.1;UE to 0611 NordWest (9052299154)
+10.1.2;UE to 0611 Moscow (9037011579)
+10.1.3;UE to 0611 Central Regional (9639749819)
+10.1.4;UE to 0611 Black Earth (9052299708)
+10.1.5;UE to 0611 South (9034011211)
+10.1.6;UE to 0611 Caucas (9612989341)
+10.1.7;UE to 0611 Volga (9033829115)
+10.1.8;UE to 0611 Ural (9033829952)
+10.1.9;UE to 0611 Siberia (9039336001)
+10.1.10;UE to 0611 Far East (9628429499)
+10.2.1;CAMEL bypass MT
+10.2.2;CAMEL bypass MO+MT
+10.2.3;CAMEL bypass STP-SRF
+10.2.4;CAMEL bypass Selective
+10.2.5;CAMEL bypass MO+MT+STP-SRF
+10.1.1;MSC Selection in MSC Pool 
+10.1.2;TMSI Based Routing in MSC Pool 
+10.1.3;NRI correct handling when moving between 3G and LTE
+10.1.4;Intra MSC Handover to BSC/RNC outside the MSC Pool Area 
+10.1.5;Enhancement Support for Non-pool Aware RAN Nodes 
+10.1.6;MSC Pool redistribution mechanism
+10.1.7;CSFB MT call in MSC-in-Pool 
+10.1.8;MO Call&SMS Recovery
+10.1.9;MO CSFB call recovery
+10.1.10;SMS over SGs MO recovery
+10.1.11;Dual VLR Registration of EPS Subscriber feature check
+10.2.3;MT SMS Recovery
+11.1.1;UE to UE transit call
+11.1.2;UE to PLMN transit call
+11.1.3;PLMN to UE transit call
+11.1.4;UE to PSTN transit call
+11.1.5;PSTN to UE transit call
+11.3.1;Data call from Mobile to Mobile for transit call
+11.3.2;Data call from Mobile to PSTN for transit call
+11.3.3;Fax call from Mobile to PSTN for transit call
+11.3.4;Fax call from PSTN to Mobile for transit call
+11.4.1;PRBT for incoming transit call
+11.5.1;TPPS local Beeline
+11.5.2;TPPS local PSTN
+11.5.3;Call Forwarding Unconditional
+11.6.1;UE to UE call via CMN (no HLR interrogation, no IN triggering)
+11.6.2;UE to UE call via CMN (HLR interrogation on CMN)
+11.6.3;UE to UE call via CMN (IN Triggering on CMN)
+11.6.4;UE to PSTN transit call
+11.6.5;Call Forwarding Unconditional
+11.6.6;SS invocation during call

@@ -1,0 +1,301 @@
+,Chapter,Test Case,hash,Type,Date,Status,part,_merge,node,up_date
+0,1.1.1,Power check,872ccd9c6dce18ce6ea4d5106540f089,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+1,1.1.2,Power up,522c33efdda0b8dc6ce90c991beb9666,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+2,1.1.3,Local connection to BSP,ad2f981820c1e26b9c95b61832af190a,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+3,1.1.4,Verify BSP Software version,812b7598bbe881cd8e5efaa29fc2d684,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+4,1.1.5,BSP Alarms,75d011862ef65fffc11437b37454ce76,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+5,1.1.6,Check Shelf and Blade Status,7456ee57ea536a24e49fdfb1d56359bf,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+6,1.1.7,Check CMXB configuration,a7145d355d740865df1d9db5e3d5ba30,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+7,1.1.8,Lock/Unlock SCXB board in main shelf with Standby DMXC,91e70420cca54c70994ea3a14cb0553a,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+8,1.1.9,Lock/Unlock SCXB board in main shelf with Active DMXC,3576f9d10c59a69e7c731850cc8b8d7b,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+9,1.1.10,Lock/Unlock Active CMX Board in main shelf,e7e4d9701137fb31a611ebcef3fc5616,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+10,1.1.11,Create BSP Configuration Backup,633956bea4e529251c111fd47c8d6c3d,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+11,1.1.12,Restore node from BSP Configuration Backup,7cac7401e143c0858e706f5349fab9a5,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+12,1.1.13,NTP Server Connection,6e0c5d81f59bef066c2ea2fe22af723e,BSP,01.01.2022,N-A,BSP,both,VS40MSK,2023-9-22
+13,2.1.1,Check HW configuration,9db531902daddabddb83b22e9629f0ad,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+14,2.1.2,Access to APG43L,9562870d7e8245d03c2ac6055dff735f,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+15,2.1.3,Configuration of IP addresses,6c1f97d67fec3e255c0cb2279cc943de,Compact & Cluster,2023-06-20 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+16,2.1.4,Connection to the node and login,287d1ac6a08490838018a515394ee921,Compact & Cluster,2023-06-20 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+17,2.1.5,Create a temporary troubleshooting user,5fd08c89b5f5fb4807fcec58ae247364,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+18,2.1.6,Serial console connection,73ccd957744dd2396f454d124d02080b,Compact & Cluster,2023-06-21 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+19,2.2.1,Check and Change public IP address,2c837ab2c7cadbdc35b5bd7115e9eff1,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+20,2.2.2,Check APG status,0656d165197f3b22591f6e91f3bb970f,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+21,2.2.3,Check APG date and time,7d30aa8b30a57b85d658fcd54426884a,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+22,2.2.4,Unlock ts_user,f646e5445d3791b94e8b9282903afc4f,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+23,2.2.5,Check APG backup,eb6775d1512159161e78f11c8b83a3a1,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+24,2.2.6,Check system configuration,38a9f108005b63c87f42d9463c3baa8e,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+25,2.2.7,Check APG SW level,22c4368303353afc3da4c37a63ac9c8e,Compact & Cluster,2023-08-08 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+26,2.2.8,Check RAID mirror status,c39014e9fc9434df5300cb3afe6de049,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+27,2.2.9,Check Power Redundancy,9f27e70747bb6f7bd8766a9f2e588c74,Compact & Cluster,2023-06-21 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+28,2.2.10,Check Hardware Configuration Table,c89fba4e40a852bd75925b2631f966af,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+29,2.2.11,Disable insecure protocols,e24fa90fddf5038d12c5823f1a82a241,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+30,2.2.12,Managed Element Identity (Node Name),3b51c3c8bdb7112418e8abecca4f6aaf,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+31,2.3.1,Welcome Message,03e4c32efb63959da9a8150119a167af,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+32,2.3.2,Check CP volumes and create CP files,c2ee74b62870d06b4b4ad6819b9bf142,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+33,2.3.3,Network Surveillance Function (NSF),73fb5c21df0af98eded20765c75ac21d,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+34,2.3.4,License Key File,bb2890f601990168bb49c1c060892de1,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+35,2.3.5,LDAP Configuration,b5a4d71c0a119e86fefee05f6b40066c,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+36,2.3.6,LDAP connectivity verification,e16be4785c3d308a5aba12eb38bad31f,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+37,2.3.7,NTP,08f86f330f8cba76114532e79b0c4620,Compact & Cluster,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+38,2.4.1,APG43L Backup check,12a43319e7db5c6f85c503cdfc9ea34d,Compact & Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+39,3.1.1,Power up / Cold start,d9e15b7599116e38f870d0dc600c08a4,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+40,3.2.1,Test of CP-AP Communication,f2f87b58be0d57ecf71ada8df361a2d9,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+41,3.2.2,Check board configuration,07c01f92f8cc36c71e58a8ad0fb8639d,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+42,3.2.3,Check CP SW Version,594663875f34563eccad2ac626416af8,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+43,3.2.4,Check status on APG,426ac9e16e3278c8e1dfc781fcd77806,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+44,3.2.5,Initial Loading,93dd16f99950312e32f87049a058942e,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+45,3.2.6,Check for CP FAULT ALARM,73dfbb5700b11d1ed0a2816bf9e5b408,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+46,3.2.7,IP Configuration Check,555e87164251252d1a870d3859a52866,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+47,3.2.8,Power cycle test,15ba410bf723c290f02d15bb11cb5589,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+48,3.2.9,MSC Tenants check for Multi-application MSC,47d00337b63e5813209cc10b972ffa34,Cluster,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+49,3.3.1,Make CP backup,1dd785e1de9a32e236b624ae268bb803,Compact,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+50,4.1.1,Hardware Configuration Check,737ea9953b21c4ffabc349e9b20f3b4b,Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+51,4.1.2,Check CP Volumes and CP Files on AP1,e665caf5a91ebe9e287226a3dade0d69,Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+52,4.1.3,Check APZ Middleware,2394c9ffd5558f411ffdc3326e9a8962,Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+53,4.1.4,Boot Start of the Dual CPs for SPXs,a8ae891fee3f029670061a690b906444,Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+54,4.1.5,Boot Start of Cluster CPs,8e54c4eba7a11ffaf30122b9de464a1f,Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+55,4.1.6,Test the AP-CP Communication,0530238aab3276cdca8e60a23cfe914e,Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+56,4.1.7,Transfer MAS Dump to AP1,99c7573d6c7ef89bf2b3047d9a77e2fa,Cluster,2023-06-19 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+57,4.1.8,Initial Loading and Application Startup of Dual CPs,dedd978ae5fb3a373069b1e3fc92b8fd,Cluster,2023-06-20 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+58,4.1.9,Initial Loading and Application Startup of Cluster CPs,604453858cb7940492f90684752e14dd,Cluster,2023-06-20 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+59,4.1.10,Test the AP-IPLB Communication,55be864f009e5d8a5b3eefb11881f86a,Cluster,2023-06-20 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+60,4.1.11,Lock/Unlock IPLB,4501c31d4aabf710b9f7f86fc72eb2be,Cluster,2023-07-31 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+61,4.1.12,Lock/Unlock SPX,0895c2f3dbcff8e891937671d1a93c93,Cluster,2023-07-31 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+62,4.2.1,"Blade Restart, Large",65bf9cb61d2ad5d51ddbf22319311dc3,Cluster,2023-08-03 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+63,4.2.2,Blade Reload,7f71c290ad26c3eb3e08fdd438379022,Cluster,2023-08-03 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+64,4.2.3,Forced Reconfiguration (Blade taken out of Quorum),e5544c9f2c558bb7b6f240d0416162f6,Cluster,2023-08-03 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+65,4.2.4,Blade re-inserted and re-activated,79ef453460e51233c741f98abdbb9361,Cluster,2023-08-03 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+66,4.2.5,"Blade Isolation and Removal , Traffic Level",5441717396398d064ef2ea407b8b8223,Cluster,2023-08-14 00:00:00,OK,HW+MW,both,VS40MSK,2023-9-22
+67,4.2.6,SUA association state check,1e67c6fe796ff80b43b1f435f7168729,Cluster,2022-01-01 00:00:00,N-A,HW+MW,both,VS40MSK,2023-9-22
+68,4.2.7,Power cycle test,6f0f99806c61c7984dfca14c48611966,,,,,left_only,VS40MSK,2023-9-22
+69,5.1.1,Backup,2c0fc24b3d3038317dc51c05339856d0,Compact & Cluster,2022-01-01 00:00:00,TBD,HW+MW,both,VS40MSK,2023-9-22
+70,5.1.2,Traffic Configuration Printout Collection,4acdb660b77133731754dedcde68495b,Compact & Cluster,2022-01-01 00:00:00,TBD,HW+MW,both,VS40MSK,2023-9-22
+71,5.1.3,APG43L Printout Collection,5488c86a1260428f0c13c0f8fb06bf6a,Compact & Cluster,2022-01-01 00:00:00,TBD,HW+MW,both,VS40MSK,2023-9-22
+72,5.1.4,BSP Configuration Printout Collection,7f5e6c29417bb1282666acfb2678e9de,Compact & Cluster,2022-01-01 00:00:00,TBD,HW+MW,both,VS40MSK,2023-9-22
+73,7.1,Check Power Redundancy,7cd31cf6820896d838535a73cafb15ca,BSP,2023-06-21 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+74,7.2,Check of physical connectivity,74c5d9234051010a38a669f48bfeb435,Compact & Cluster,2022-06-21 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+75,7.3,Physical link failure of external link on Active CMXB in main shelf (O&M),6924f66d3c42e6c8f021dc7c8693ba4c,Compact & Cluster,2023-06-21 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+76,7.4,Physical link failure of external link on Passive CMXB in main shelf (O&M),d0201c3c7c67230ad82ad841f7c8e260,Compact & Cluster,2022-06-21 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+77,7.5,Physical external link failure of master CMXB while another CMXB is in locked state,0d640498fb206f2d67e1829ba976d945,Compact & Cluster,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+78,7.6,Check CMXB configuration (Signalling links),5960276c0e365f7a81a90baab3a72051,Compact & Cluster,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+79,7.7,SCXB failure scenarios,971455e5b307f416baac0cb24b710792,Compact & Cluster,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+80,7.8,CMXB failure scenarios,90cc3a10dc0cf2e7e72098e531c4d970,Compact & Cluster,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+81,7.9,IPLB failure scenarios,299e5505ce975112afaefec130cc83e0,Cluster,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+82,7.10,Create BSP Configuration Backup,5a989a5d00ba0820921931d9826b8741,Compact & Cluster,2023-08-03 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+83,7.11,Restore node from BSP Configuration Backup,e0dcbd0519d1c8e7c5390b679c1ad71d,Compact & Cluster,2023-08-03 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+84,8.1,CMXB Failure,d6422a625045167156b3c0d85ca23ebf,MSC-S Compact,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+85,8.2,Direct link of 1 CMXB failure,2a568439f8e6ff92daa9925ce8a03adf,MSC-S Compact,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+86,8.3,Crosslink of 1 CMXB failure,5e20d6ed7744f334ad7deb3cea4d5905,MSC-S Compact,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+87,8.4,CMXB - CMXB link Failure,6762f053abca7510f6648c71492724a7,MSC-S Compact,2022-01-01 00:00:00,N-A,Redundancy,both,VS40MSK,2023-9-22
+88,8.5,BB Router Failure,845e85fa64a2d6037055beba19fe0bd8,MSC-S Compact,2023-08-14 00:00:00,OK,Redundancy,both,VS40MSK,2023-9-22
+89,9.1.1,De-register and Register,43741f3d554561f19643c148c44fe3d4,Compact & Cluster,2023-08-16 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+90,9.1.2,Periodic Location Updating and Implicit Detach,818da2c884d55e471928cb5272d29a31,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+91,9.2.1,MS to MS call,3fd513cd70360300ac6bb8458ddc9888,Compact & Cluster,2023-08-16 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+92,9.2.2,MS to PLMN call,b397dd99f6757ddd58ac7ad24aac40e5,Compact & Cluster,2023-08-16 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+93,9.2.3,PLMN to MS call,955f830b837337e10ebed4d78a513d79,Compact & Cluster,2023-08-16 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+94,9.2.4,MS to PSTN call,c7149e16a047d9566cc961908ae32d2d,Compact & Cluster,2023-08-16 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+95,9.2.5,PSTN to MS call,16c9d3ace2b8a88fa4e45a654812bdca,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+96,9.2.6,MS to Announcement,3a33fb07913c161d2824d33cea866c52,Compact & Cluster,2023-08-16 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+97,9.2.7,Emergency call (Era Glonass),35ca96fa278f9e07847c93917d6ad6f8,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+98,9.3.1,UE to UE call,7f79f4a1264ac6f81dda3f892f0b378c,Compact & Cluster,2023-09-14 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+99,9.3.8,Emergency call (112),0dd4153dfc6da54dd2cfebb9b5787102,Compact & Cluster,2023-09-14 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+100,9.4.1,MS to UE Speech Call,8ca6aedd1dca4087bf449612f5d54846,Compact & Cluster,2023-09-14 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+101,9.5.1,Intra-MSC Handover,6311e6c306450bdca5d9aa639f78bc93,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+102,9.5.2,Inter-MSC Handover,f82d1a3a9a7e2f2bba3ab5bb11ad30a4,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+103,9.5.3,Inter-System Handover (GSM – UMTS),e905511c7c7c6c4151c73b140335e1b6,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+104,9.5.4,Inter-System Handover (UMTS – GSM),485a307d92454667d8e8ed93a31e70e2,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+105,9.6.1,UE to DTMF,f0fb5a780278797ab7e76246bf920f4b,Compact & Cluster,2023-09-14 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+106,9.6.2,UE to Voice Mail,89334fa829e818f29d7008906cd4739d,Compact & Cluster,2023-09-18 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+107,9.6.3,"CAW, HOLD and MPTY",7b437f7d8f175e7c35651592b36077fc,Compact & Cluster,2023-09-19 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+108,9.6.4,Call Forwarding Unconditional,ea5a4cb7623aa5142a71dcf7a64e36bc,Compact & Cluster,2023-09-18 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+109,9.6.5,Call Forwarding Unconditional (UE1 with COLP),2f1e2555b07ab8051d52c3f3bb41c18e,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+110,9.6.6,Call Forwarding Not Reachable,335a350dff1baec2b89db200758ba20c,Compact & Cluster,2023-09-18 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+111,9.6.7,Call Forwarding Not Reachable to VMS,345e7d8e994c604a4a33cd59e5eafb6b,Compact & Cluster,2023-09-18 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+112,9.6.8,Call Forwarding No Reply,8bb8a14e6f5236bd80c896e95805437d,Compact & Cluster,2023-09-19 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+113,9.6.9,Call Forwarding Busy,3ecd749e50379153f84e8194b5979b22,Compact & Cluster,2023-09-19 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+114,9.6.10,Calling Line Identification Presentation,b1dea4a64d7f844a796d2141d4ff583c,Compact & Cluster,2023-09-19 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+115,9.6.11,Calling Line Identification Restriction,2b173d309767a10dec56493fc78fa768,Compact & Cluster,2023-09-19 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+116,9.6.12,CLIR temporary off for 1 call,036cedefb878a57cbda296d34af279b5,Compact & Cluster,2023-09-19 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+117,9.6.13,CLIR temporary on for 1 call,d7c71132c92837832ced6b5090660054,Compact & Cluster,2023-09-19 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+118,9.6.14,PRBT service invocation,35e04ec64aa8da32084b3979e116065b,Compact & Cluster,2023-09-19 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+119,9.7.1,Barring of all outgoing calls (BAOC),07aab4a577150ba8de1b35f154e19119,Compact & Cluster,2023-09-20 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+120,9.7.2,Barring of all outgoing international calls (BOIC),685e784ea3bfdf5d4adeeac7bde4bbab,Compact & Cluster,2023-09-20 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+121,9.7.3,Barring of all outgoing international calls excl. HPLMN (BOIEXH),0d12f0b2319ec552d558a53e86e6f0c2,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+122,9.7.4,Barring of all incoming calls (BAIC),55d376dc863c2dffa54c934a60300236,Compact & Cluster,2023-09-20 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+123,9.7.5,Barring of all outgoing calls (OBO),5bf3a400c92a6a41da1cd9f705ed576c,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+124,9.8.1,Short SMS,129a3cdf0eeb50759ea101f21f9b411d,Compact & Cluster,2023-09-20 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+125,9.8.2,Long SMS,0ef84eb990b70f35327c7d83f5231ccc,Compact & Cluster,2023-09-20 00:00:00,OK,Traffic,both,VS40MSK,2023-9-22
+126,9.8.3,SMS during call,7155543aa4a373349abf1e85144acc3f,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+127,9.9.1,Data call from Mobile to Mobile,67c6ecbcd91c613e8659b3f0c4b01510,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+128,9.9.2,Data call from Mobile to PSTN,2ab47f119fb8711b4f7fa77e738cee05,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+129,9.9.3,Fax call from Mobile to PSTN,dbbef9ff93f0799979dba50d2a41904f,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+130,9.9.4,Fax call from PSTN to Mobile,1174e7f713201a491f42ee339eafd5cf,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+131,9.10.1,USSD Balance Inquiry,ea2aca94e5b174a1b84f2c3891379526,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+132,9.11.1,Enhanced IMEI check,11efa46f237387b311e6ed482756ac49,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+133,9.12.1,Local Subscriber: OPPS,eba1f3287bdc33dfa25c084b5e15a4c5,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+134,9.12.2,Local Subscriber: TPPS,3004503f5d6853bd159ac7bc75057395,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+135,9.12.3,Local Subscriber: OPPS PSTN,6f20e3f4119c966742d33aec6a1f13c1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+136,9.12.4,Local Subscriber: TPPS PSTN,688230fa85c49b17d99889d6e1cf3687,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+137,9.12.5,Local Subscriber: VMS,6f3e0a73f296d7e87e71ec6d85527ee5,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+138,9.12.6,Local Subscriber: CFNRC to VMS,5a61e00e401b1f52efe1bd3f2f870a30,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+139,9.12.7,Local Subscriber: CFNRY to PSTN,c31d95487fcd7511056eabdcaf76bd2b,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+140,9.12.8,Local Subscriber: CFU,4f5d12ec738096f58ba53f36255c48ee,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+141,9.12.9,Nord West Roamer: OPPS,93bfdb1f29f34584c3478bdcd9acff07,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+142,9.12.10,Nord West Roamer: TPPS,679cb4f4d7b288343cf5e487b4c5a015,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+143,9.12.11,Nord West Roamer: OPPS to PSTN,3fd1ec29b3bda617dee449ae75be69e8,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+144,9.12.12,Nord West Roamer: TPPS from PSTN,74a4a665dced9fde0bd663f330a408a3,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+145,9.12.13,Nord West Roamer: Call to VMS 0600,adc5b8bd556d22fecaba8ec4b1cf1d0b,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+146,9.12.14,Nord West Roamer: CFNRC Call to VMS,8a6c056d7c2a498c5342a11f09988c5f,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+147,9.12.15,Nord West Roamer: CFNRY Call to PSTN,5fd45fb9c14cb5935141068baf2b928d,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+148,9.12.16,Nord West Roamer: CFU Call,7a27da49d5f4a0bcc021db80ceed4962,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+149,9.12.17,Moscow Roamer: OPPS,bc0ff37b4e7fa56519d88d389e6b9750,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+150,9.12.18,Moscow Roamer: TPPS,1ef5845c2f8194cb5e1bb3b9bd51149e,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+151,9.12.19,Moscow Roamer: OPPS to PSTN,be96d07050c7950eb57f40c6a543b8a6,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+152,9.12.20,Moscow Roamer: TPPS from PSTN,d548fdb1a0b90f4959d7a39077849595,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+153,9.12.21,Moscow Roamer: Call to VMS 0600,7cd1d51be869150539dbed9288e0ec0a,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+154,9.12.22,Moscow Roamer: CFNRC Call to VMS,40ee4ffddfd63a077522e4554bb33f6b,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+155,9.12.23,Moscow Roamer: CFNRY Call to PSTN,46b71e2f20ddbe3a8d90f349bdbc86d6,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+156,9.12.24,Moscow Roamer: CFU Call,b5519c30b303e387ce7785aa7f6e1d48,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+157,9.12.25,Central Regional Roamer: OPPS,57e316de521b320bd642ce216b642681,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+158,9.12.26,Central Regional Roamer: TPPS,5aeb34763941878f7a19e0523e9e197a,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+159,9.12.27,Central Regional Roamer: OPPS to PSTN,ded5917afbf5c1a7191a689740cf40db,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+160,9.12.28,Central Regional Roamer: TPPS from PSTN,ff3ab10fed7822fb002de945c1e8a820,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+161,9.12.29,Central Regional Roamer: Call to VMS 0600,cda99b9d1c9f71ed1aa63f4d47582df1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+162,9.12.30,Central Regional Roamer: CFNRC Call to VMS,33512124adc86c570762f36d8d4c9456,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+163,9.12.31,Central Regional Roamer: CFNRY Call to PSTN,9ae827c76c6b16ef1175119f05b9d724,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+164,9.12.32,Central Regional Roamer: CFU Call,70fd10cd708afe035af044b5d259b7fd,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+165,9.12.33,Black Earth Roamer: OPPS,b2b0966ffcc3337fe634ccaae909beb4,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+166,9.12.34,Black Earth Roamer: TPPS,86cf4340a3416d0212732392f4a1a943,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+167,9.12.35,Black Earth Roamer: OPPS to PSTN,201fdca152916ebb528754dceab6443d,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+168,9.12.36,Black Earth Roamer: TPPS from PSTN,2bd35b405e0c86df1cd2d2a238b7120e,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+169,9.12.37,Black Earth Roamer: Call to VMS 0600,f22e5124085058bb8b9586d03be632c2,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+170,9.12.38,Black Earth Roamer: CFNRC Call to VMS,fd8f3a0ad86ae9ccb099ff0c22918868,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+171,9.12.39,Black Earth Roamer: CFNRY Call to PSTN,cde3e37c4aadda5d5fc0d54f8762188f,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+172,9.12.40,Black Earth Roamer: CFU Call,4b599f2a7d05bac691720763626d8c68,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+173,9.12.41,South Roamer: OPPS,60a122d759c78e3acf3fd66099896e56,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+174,9.12.42,South Roamer: TPPS,db2dea16b4350b936ee767339abce089,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+175,9.12.43,South Roamer: OPPS to PSTN,5bc9e8cb68a710b429eeb89abbc0d38e,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+176,9.12.44,South Roamer: TPPS from PSTN,d700551d9fd45af0355b69c2084afd63,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+177,9.12.45,South Roamer: Call to VMS 0600,34a2941bb909a45c907b4e505a3283c0,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+178,9.12.46,South Roamer: CFNRC Call to VMS,62499c4747ad419414d8be0b18e591c8,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+179,9.12.47,South Roamer: CFNRY Call to PSTN,bf31825cea952c205c02682faeadd4c0,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+180,9.12.48,South Roamer: CFU Call,d2f95f555b8ba2103a35885eb8d7cfa2,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+181,9.12.49,Volga Roamer: OPPS,8387527c755174a54c20043b22526bb4,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+182,9.12.50,Volga Roamer: TPPS,c3fdb7020a2a5811d79c72e5c2374daa,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+183,9.12.51,Volga Roamer: OPPS to PSTN,1f2f599e57f9c808509c6c2664735856,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+184,9.12.52,Volga Roamer: TPPS from PSTN,da1a2a39fb5ae3f8b57f0780c04768b3,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+185,9.12.53,Volga Roamer: Call to VMS 0600,1a38938d0ee90f358a506c5a5aa1d6ee,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+186,9.12.54,Volga Roamer: CFNRC Call to VMS,7639a7a782a35118ade79062cfbadfa2,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+187,9.12.55,Volga Roamer: CFNRY Call to PSTN,33dcb83ece82c5bee6961513107a0110,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+188,9.12.56,Volga Roamer: CFU Call,8aea18834d5d56d88ed2ad4c9d57c442,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+189,9.12.57,Ural Roamer: OPPS,aba682da0f1567c08d159668475f09d1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+190,9.12.58,Ural Roamer: TPPS,57344bbc67be7484b69ebd29e7e0d01a,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+191,9.12.59,Ural Roamer: OPPS to PSTN,1fe182f121957ffe173612a1b7c7dc79,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+192,9.12.60,Ural Roamer: TPPS from PSTN,eb967fd787405cef4c2499217673afdf,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+193,9.12.61,Ural Roamer: Call to VMS 0600,ea21cddaec137586fb74d181ed4aeeab,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+194,9.12.62,Ural Roamer: CFNRC Call to VMS,50e7194fac9c46ac12e9351a110fb390,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+195,9.12.63,Ural Roamer: CFNRY Call to PSTN,a9e3d25e9ce039b9f899801f1b6b2a1b,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+196,9.12.64,Ural Roamer: CFU Call,4c69043908f5d3a1602d78ae92586c45,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+197,9.12.65,Siberia Roamer: OPPS,2eee9d336f2a65607228a6073a3ebcc8,Compact & Cluster,2022-01-01 00:00:00,N-A,Traffic,both,VS40MSK,2023-9-22
+198,9.12.66,Siberia Roamer: TPPS,dfefac68d595754eddd2df7ff19bbff5,Compact & Cluster,2022-01-01 00:00:00,N-A,Traffic,both,VS40MSK,2023-9-22
+199,9.12.67,Siberia Roamer: OPPS to PSTN,afdda46aa8aeabdb62b5db5ca1245fea,Compact & Cluster,2022-01-01 00:00:00,N-A,Traffic,both,VS40MSK,2023-9-22
+200,9.12.68,Siberia Roamer: TPPS from PSTN,bd9ec084210e4c4566f77d461c413831,Compact & Cluster,2022-01-01 00:00:00,N-A,Traffic,both,VS40MSK,2023-9-22
+201,9.12.69,Siberia Roamer: Call to VMS 0600,298634940e6bdc6c080c21303a132e61,Compact & Cluster,2022-01-01 00:00:00,N-A,Traffic,both,VS40MSK,2023-9-22
+202,9.12.70,Siberia Roamer: CFNRC Call to VMS,409a6233b0ccb84a667a496f8b5a06f2,Compact & Cluster,2022-01-01 00:00:00,N-A,Traffic,both,VS40MSK,2023-9-22
+203,9.12.71,Siberia Roamer: CFNRY Call to PSTN,ce1809149b36bde4fb3a022582d3266b,Compact & Cluster,2022-01-01 00:00:00,N-A,Traffic,both,VS40MSK,2023-9-22
+204,9.12.72,Siberia Roamer: CFU Call,a314662f316f3a4c9840e2621210276c,Compact & Cluster,2022-01-01 00:00:00,N-A,Traffic,both,VS40MSK,2023-9-22
+205,9.12.73,Far East Roamer: OPPS,97300b9d875be6a9310107cea8932dda,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+206,9.12.74,Far East Roamer: TPPS,f81abb4df7602386541df1d7b80404f0,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+207,9.12.75,Far East Roamer: OPPS to PSTN,7529fb9a315c298716e9d149d9ce29a1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+208,9.12.76,Far East Roamer: TPPS from PSTN,3fdb807bd01e76d396f1b8e09f0132a8,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+209,9.12.77,Far East Roamer: Call to VMS 0600,f5130c803f82499e8544bf9d45a912b1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+210,9.12.78,Far East Roamer: CFNRC Call to VMS,bb9fbf71a478a91d85eb8e769c3af3ae,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+211,9.12.79,Far East Roamer: CFNRY Call to PSTN,88c010bb937490e0538a8a9cc41d9441,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+212,9.12.80,Far East Roamer: CFU Call,796702f8a3d7247f702a17b3b23e49b6,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+213,9.13.1,Location Update with USIM,57a3061930625af99195891e9e561fb2,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+214,9.13.2,Location Update with SIM,250698bfa621bab560aef5d52d51de49,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+215,9.14.1,B Numbering trigger (DCF and INAP),d544ab02530940d46c43ea00a73d59d3,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+216,9.14.2,B Numbering trigger (ANTIFRAUD),46b4aa3d8f8ff5d7beeb3d0e38c36761,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+217,9.15.1,Combined Attach procedure (UE Mode “Auto”),120ae360daecd24b580b71f9f2766bbc,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+218,9.15.3,MT SMS to UE,422b918551de2b3a8420e244ad8cbdfc,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+219,9.15.5,MO SMS from UE,68780ae1e137c56b0ab6bbd9b6ff4168,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+220,9.15.7,MO USSD from UE,09052bec12b5e5bb01ffc2e21c608278,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+221,9.15.8,Network Initiated USSD,3b876ed0c1f2df7b15b16bb2df47048b,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+222,9.15.10,MT call in Idle Mode (CSFB to 2G),2db4d8d00327ed2c94d70d60680659ce,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+223,9.15.12,MO call in Idle Mode (CSFB to 2G),658705a7da0c191929a5aaedd5c91915,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+224,9.16.1,CS->VoLTE MT Call with RBT,0bd0e673df4c14cae45a11fac30c530b,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+225,9.16.2,CS->VoLTE MT Call with HOLD and MPTY,8f291bbaa265cd86a54d3c964fb94448,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+226,9.16.3,VoLTE->PLMN MO Call,12752171013c76a3d84cb6e57be5d442,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+227,9.16.4,"CS->VoLTE MT Call with Brakeout, CFNRY ",bdcfa75c774810643a0edefe05cfe05b,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+228,9.16.5,"CS->VoLTE MT Call with Brakeout, + HOLD and MPTY",09a73ccc6c44e672d992efd585eec7cf,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+229,9.16.6,VoLTE->PSTN MO Call with SRVCC,a78a340c031f1d588ea248631b551939,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+230,9.16.7,CS->VoLTE MT Call  + RBT with SRVCC At allerting state,0bd0119b2e43e255a6c64410c913cf27,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+231,9.16.8,Alternative routing when SIP peer is unreachable,465a6f08b5e15162b3f2f82b5799254a,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+232,10.1.1,UE to 0611 NordWest (9052299154),ce3c65776d2f4ff24228ded53a2490ef,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+233,10.1.1,UE to 0611 NordWest (9052299154),ce3c65776d2f4ff24228ded53a2490ef,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+234,10.1.2,UE to 0611 Moscow (9037011579),ce134cfa3e93090023129f5268687494,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+235,10.1.2,UE to 0611 Moscow (9037011579),ce134cfa3e93090023129f5268687494,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+236,10.1.3,UE to 0611 Central Regional (9639749819),09b229848bc2583db2bb2ca3a5ca5e44,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+237,10.1.3,UE to 0611 Central Regional (9639749819),09b229848bc2583db2bb2ca3a5ca5e44,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+238,10.1.4,UE to 0611 Black Earth (9052299708),f43511d45aae9299ed7f59e7ff3c776e,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+239,10.1.4,UE to 0611 Black Earth (9052299708),f43511d45aae9299ed7f59e7ff3c776e,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+240,10.1.5,UE to 0611 South (9034011211),c799442c343933c71c96e217a832abc7,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+241,10.1.5,UE to 0611 South (9034011211),c799442c343933c71c96e217a832abc7,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+242,10.1.6,UE to 0611 Caucas (9612989341),651065aba1df51bc53cd3eb042e13ca4,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+243,10.1.6,UE to 0611 Caucas (9612989341),651065aba1df51bc53cd3eb042e13ca4,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+244,10.1.7,UE to 0611 Volga (9033829115),da4ad5814a78584832c85043b9977df1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+245,10.1.7,UE to 0611 Volga (9033829115),da4ad5814a78584832c85043b9977df1,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+246,10.1.8,UE to 0611 Ural (9033829952),b6a8a684fc2a38576f504e6e0937c3b3,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+247,10.1.8,UE to 0611 Ural (9033829952),b6a8a684fc2a38576f504e6e0937c3b3,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+248,10.1.9,UE to 0611 Siberia (9039336001),1b0f97f973b4fdc62b8d8c40e49b5ac2,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+249,10.1.9,UE to 0611 Siberia (9039336001),1b0f97f973b4fdc62b8d8c40e49b5ac2,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+250,10.1.10,UE to 0611 Far East (9628429499),df7543a6d5af8424ab4dd0198ff54e02,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+251,10.1.10,UE to 0611 Far East (9628429499),df7543a6d5af8424ab4dd0198ff54e02,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+252,10.2.1,CAMEL bypass MT,5661efede40940c457aa3728f4f206e6,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+253,10.2.2,CAMEL bypass MO+MT,bb046980ec03b9a26e74970a7d26c41c,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+254,10.2.3,CAMEL bypass STP-SRF,e65bcd16628be8f6c8953d0f855ddaf1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+255,10.2.3,CAMEL bypass STP-SRF,e65bcd16628be8f6c8953d0f855ddaf1,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+256,10.2.4,CAMEL bypass Selective,f465875ae06836908e80eba6c412f6e5,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+257,10.2.5,CAMEL bypass MO+MT+STP-SRF,c8e58135561492e1314a18416b6d0097,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+258,10.1.1,MSC Selection in MSC Pool ,ce3c65776d2f4ff24228ded53a2490ef,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+259,10.1.1,MSC Selection in MSC Pool ,ce3c65776d2f4ff24228ded53a2490ef,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+260,10.1.2,TMSI Based Routing in MSC Pool ,ce134cfa3e93090023129f5268687494,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+261,10.1.2,TMSI Based Routing in MSC Pool ,ce134cfa3e93090023129f5268687494,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+262,10.1.3,NRI correct handling when moving between 3G and LTE,09b229848bc2583db2bb2ca3a5ca5e44,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+263,10.1.3,NRI correct handling when moving between 3G and LTE,09b229848bc2583db2bb2ca3a5ca5e44,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+264,10.1.4,Intra MSC Handover to BSC/RNC outside the MSC Pool Area ,f43511d45aae9299ed7f59e7ff3c776e,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+265,10.1.4,Intra MSC Handover to BSC/RNC outside the MSC Pool Area ,f43511d45aae9299ed7f59e7ff3c776e,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+266,10.1.5,Enhancement Support for Non-pool Aware RAN Nodes ,c799442c343933c71c96e217a832abc7,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+267,10.1.5,Enhancement Support for Non-pool Aware RAN Nodes ,c799442c343933c71c96e217a832abc7,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+268,10.1.6,MSC Pool redistribution mechanism,651065aba1df51bc53cd3eb042e13ca4,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+269,10.1.6,MSC Pool redistribution mechanism,651065aba1df51bc53cd3eb042e13ca4,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+270,10.1.7,CSFB MT call in MSC-in-Pool ,da4ad5814a78584832c85043b9977df1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+271,10.1.7,CSFB MT call in MSC-in-Pool ,da4ad5814a78584832c85043b9977df1,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+272,10.1.8,MO Call&SMS Recovery,b6a8a684fc2a38576f504e6e0937c3b3,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+273,10.1.8,MO Call&SMS Recovery,b6a8a684fc2a38576f504e6e0937c3b3,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+274,10.1.9,MO CSFB call recovery,1b0f97f973b4fdc62b8d8c40e49b5ac2,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+275,10.1.9,MO CSFB call recovery,1b0f97f973b4fdc62b8d8c40e49b5ac2,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+276,10.1.10,SMS over SGs MO recovery,df7543a6d5af8424ab4dd0198ff54e02,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+277,10.1.10,SMS over SGs MO recovery,df7543a6d5af8424ab4dd0198ff54e02,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+278,10.1.11,Dual VLR Registration of EPS Subscriber feature check,c858e7ade9bd4514327a9ff8ed702144,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+279,10.2.3,MT SMS Recovery,e65bcd16628be8f6c8953d0f855ddaf1,Compact & Cluster,2022-01-01 00:00:00,TBD,Traffic,both,VS40MSK,2023-9-22
+280,10.2.3,MT SMS Recovery,e65bcd16628be8f6c8953d0f855ddaf1,,01.01.2022,TBD,MSS Poll,both,VS40MSK,2023-9-22
+281,11.1.1,UE to UE transit call,2b9efadbca5339117f89d04fd0ce8f3f,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+282,11.1.2,UE to PLMN transit call,321f5cbc6c1ab6f1a30af3e71653f2be,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+283,11.1.3,PLMN to UE transit call,7836e7f963e78bb7dee238fe76051e62,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+284,11.1.4,UE to PSTN transit call,affdd3b1ad5ba73b63075bd68742737e,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+285,11.1.5,PSTN to UE transit call,25447cac46a357a7b59ea83ce1aadbc9,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+286,11.3.1,Data call from Mobile to Mobile for transit call,ccc7b22b6ebc61c4bcf5ad84b71270db,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+287,11.3.2,Data call from Mobile to PSTN for transit call,0403c41db853beec81b1afbd692a22f4,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+288,11.3.3,Fax call from Mobile to PSTN for transit call,39710915a734dacc5dba2f8e8b964987,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+289,11.3.4,Fax call from PSTN to Mobile for transit call,7a33175b13a534eb1cf54c2370294aa7,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+290,11.4.1,PRBT for incoming transit call,5f4466bb8b431d1795004276179a7d5e,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+291,11.5.1,TPPS local Beeline,571c9da1cdf59a9af1c143c7f356086f,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+292,11.5.2,TPPS local PSTN,55defd81521827e7018997611f7f9c4d,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+293,11.5.3,Call Forwarding Unconditional,d23ba4037073ff470bd5afa56281716a,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+294,11.6.1,"UE to UE call via CMN (no HLR interrogation, no IN triggering)",c3fba2ea342afbe8ce2011a2cdf6a05b,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+295,11.6.2,UE to UE call via CMN (HLR interrogation on CMN),fabb390ef71af5c301c28426c281aac1,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+296,11.6.3,UE to UE call via CMN (IN Triggering on CMN),9670c76a219c6058d5aa6ada4c22fbf7,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+297,11.6.4,UE to PSTN transit call,70d64e720649b3ff79a1e89094136d11,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+298,11.6.5,Call Forwarding Unconditional,01ff1143eb86e9fe67918ccae0423910,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
+299,11.6.6,SS invocation during call,1e6d4ef92d1e12d9edc8f9b148e14cb7,,01.01.2022,TBD,CMN_GMSC,both,VS40MSK,2023-9-22
